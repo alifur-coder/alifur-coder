@@ -10,7 +10,7 @@
 └───────────────────────────────▰▰▰
 
 ┌──┤ TECH STACK ├───────▰▰▰
-├─◈──────────────Back End
+├─◈──────────────Front End
 │ ├─◈ HTML ◈ CSS ◈ BOOTSTRAP ◈ TAILWIND ◈ JQUERY
 │ └─◈ JAVASCRIPT ◈ REACT ◈ NEXT ◈ VUE ◈ TYPESCRIPT 
 │
